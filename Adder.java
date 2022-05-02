@@ -12,7 +12,7 @@ public class Adder
 
             @Test 
                 public void testAdd() {
-                            assertEquals(add(), 1);
+                            assertEquals(add(), 2);
                                 }
 
 }
